@@ -24,7 +24,7 @@ API_HASH = os.environ.get("API_HASH", "25d88301e886b82826a525b7cf52e090") #Your 
 #--------------------------------------------
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003678885941")) #Your db channel Id
-OWNER = os.environ.get("OWNER", "sewxiy") # Owner username without @
+OWNER = os.environ.get("OWNER", "funnyTAMILan") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "8525952693")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
@@ -49,7 +49,7 @@ SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://telegra.ph/file/ec17880
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @LinKZzBosshub\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/cosmic_freak>sᴜʙᴀʀᴜ</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @LinKZzBosshub\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/funnytamilan>ꜰᴜɴɴʏᴛᴀᴍɪʟᴀɴ</a></blockquote></b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=>ꜰᴜɴɴʏᴛᴀᴍɪʟᴀɴ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/owner_of_bosshub>۝𝐒ᴀᴄʜɪɴ─</a>\n◈ ɴᴇᴛᴡᴏʀᴋ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/LinkZzbosshub>𝐋ɪɴᴋ𝐙ᴢ𝐁ᴏꜱꜱʜᴜʙ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/bosshubseries>𝐁ᴏꜱꜱʜᴜʙ ꜱᴇʀɪᴇꜱ ғʟɪx</a>\n◈ 𝐀ᴅꜱ 𝐍ᴇᴛᴡᴏʀᴋ: <a href=https://t.me/Bosshubads>𝐁ᴏꜱꜱʜᴜʙ ᴀᴅꜱ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/funnytamilan>𝐅𝐮𝐧𝐧𝐲𝐭𝐚𝐦𝐢𝐥𝐚𝐧</a></blockquote></b>"
 
 #--------------------------------------------
